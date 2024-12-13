@@ -1,6 +1,6 @@
 ## Olá! eu sou o Lucas Pereira
 
-- 🔭 Quero ser Desenvovledor Front-End 
+- 🔭 Sou Desenvolvedor Front-End Jr
 - 🌱 Estudando Aspnet, Typescript, Python e React
 - 😄 Pronouns: Ele/Dele
 -->
