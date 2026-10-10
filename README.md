@@ -1,7 +1,7 @@
 ## Olá! eu sou o Lucas Pereira
 
-- 🔭 Sou Desenvolvedor Front-End Jr / Estudando Back-End
-- 🌱 Estudando Aspnet, Typescript, Python, C# e React
+- 🔭 Sou Analista NOC Pleno | Infraestrutura de TI | Zabbix • Grafana • SCCM • Windows Server | GLPI | Monitoramento e Suporte N2/N3
+- 🌱 Olá! Meu nome é Lucas, tenho 30 anos e atuo como Analista de Suporte e Analista de Infraestrutura de TI.
 - 😄 Pronouns: Ele/Dele
 -->
 
