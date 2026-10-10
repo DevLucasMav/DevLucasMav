@@ -6,6 +6,14 @@
 -->
 
 
+Sou apaixonado por tecnologia e por transformar desafios em soluções. Atualmente faço parte do projeto EACE, onde monitoro a infraestrutura de rede de 207 escolas rurais utilizando Omada Cloud (TP-Link), garantindo alta disponibilidade da conectividade para alunos e profissionais da educação.
+
+Também atuo em projetos de Smart City e iniciativas para órgãos públicos e Ministérios, prestando suporte a sistemas de videomonitoramento (Intelbras, Hikvision e Dahua) e controle de acesso. Tenho experiência na administração e customização do GLPI, gerenciamento de chamados e SLAs, além da administração de usuários no Microsoft Azure (Entra ID).
+
+Possuo conhecimentos em Windows Server, VMware, Zabbix, SCCM, Azure DevOps, SQL Server e infraestrutura de redes, sempre focado em estabilidade, segurança e alta disponibilidade dos ambientes de TI.
+
+Sou um profissional proativo, colaborativo e movido pelo aprendizado contínuo, buscando evoluir constantemente nas áreas de Infraestrutura, Cloud Computing, Microsoft Azure, Automação, DevOps e Power BI.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
